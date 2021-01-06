@@ -1,6 +1,12 @@
 # Starrier README
 
+[![Build Status](https://www.travis-ci.org/Starrier/vs-code-plugin.svg?branch=master)](https://www.travis-ci.org/Starrier/vs-code-plugin)
+
 This is the README for Starrier's extension "Starrier".
+
+The plugin install site is 
+
+> [Starrier](https://marketplace.visualstudio.com/items?itemName=Starrier.starrier)
 
 ## Features
 
