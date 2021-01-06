@@ -4,6 +4,10 @@
 
 This is the README for Starrier's extension "Starrier".
 
+The plugin install site is 
+
+> [Starrier](https://marketplace.visualstudio.com/items?itemName=Starrier.starrier)
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
